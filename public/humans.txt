@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Johannes Ahrndt> -- <Boss> -- <@ahrjoh>
+
+# TECHNOLOGY COLOPHON
+
+    TailwindCSS

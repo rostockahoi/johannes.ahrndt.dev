@@ -1,0 +1,20 @@
+{
+  "name": "johannes.ahrndt.dev",
+  "version": "1.0.0",
+  "description": "Personal website of Johannes Ahrndt",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx http-server ./public",
+    "build": "npx tailwindcss build ./src/app.css -o ./public/app.css"
+  },
+  "keywords": [],
+  "author": "Johannes Ahrndt",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "tailwindcss": "^2.0.2"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
