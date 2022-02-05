@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+@layer components {
+  @import 'base';
+  @import 'torchlight';
+  @import 'navigation';
+  @import 'blog';
+}
+
+@tailwind utilities;
